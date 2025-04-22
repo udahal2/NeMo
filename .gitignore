@@ -1,3 +1,21 @@
+*environment*
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+# C extensions
+*.so
+# Distribution / packaging
+# mypy
+*.exe
+*.c++
+*.o
+*.so
+*.a
+*.dylib
+*.dll
+*.lib
+*uMedical*
+
+
 # log and data files
 *.model
 *.pkl
